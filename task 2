@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Saint Michael College of Caraga — Student Portfolio</title>
+    
+</head>
+
+<body style="font-family: Arial, sans-serif;">
+
+    <h1 style="color:darkblue;">Ralph Lyster C Cabajes</h1>
+    <h2 style="color:gray;">BSIT Student</h2>
+
+    <p style="font-size:18px;">
+        Hello! I am <strong>Ralph Lyster  Cabajes</strong>, a  
+        BS Information Technology student who enjoys watching anime and a who loves playing 
+        <mark>Online games</mark>,and also love riding motorcycles. 
+        I believe that practice  <ins>improve our skills</ins> and become better each day. 
+        <small>Thank you for viewing my page.</small>
+    </p>
+
+    <img src="d3d42b37-4a36-4294-8198-04e1f28909cf.jpg" alt="My Profile Picture" width="200" style="border:2px solid #000;">
+
+    <p>
+        Visit my favorite  website:  
+        <a href="https://www.bilibili.tv/" target="_blank" style="color:green;">
+            Bilibili Website
+        </a>
+    </p>
+    <h1 style="color:green;">My Favorite Quote</h1>
+    <blockquote style="background:#eef; padding:10px; border-left:5px solid blue;">
+        “Life is very interesting in the end,some of your greatest pain become your greatest strengths.”
+        <cite> — Draw Barrymore</cite>
+    </blockquote>
+
+    <h2 style="color:blue;">My Hobbies</h2>
+    <ul>
+        <li>Playing Online games</li>
+        <li>Reading manga</li>
+        <li>Riding motorcycles</li>
+    </ul>
+
+    <h2 style="color:green;">My Weakly Goals</h2>
+    <ol>
+        <li>Finish my task</li>
+        <li>Earn  money</li>
+        <li>improve my game play</li>
+    </ol>
+
+    <h2 style="color:purple;">Technical Terms</h2>
+    <dl>
+        <dt><strong>HTML</strong></dt>
+        <dd>A markup language that structures web content.</dd>
+
+        <dt><strong>CSS</strong></dt>
+        <dd>A stylesheet language that controls design and layout.</dd>
+
+        <dt><strong>JavaScript</strong></dt>
+        <dd>A programming language that adds interactivity to websites.</dd>
+    </dl>
+
+    <h2 style="color:brown;">My Information Table</h2>
+    <table border="1" cellpadding="8" style="border-collapse: collapse; background:#f9f9f9;">
+        <tr>
+            <th>Category</th>
+            <th>Details</th>
+        </tr>
+        <tr>
+            <td>favorite hobby</td>
+            <td>Riding motorcycles</td>
+        </tr>
+        <tr>
+            <td>Favorite food</td>
+            <td>Adobong baboy</td>
+        </tr>
+        <tr>
+            <td>Favorite game</td>
+            <td>Knives out</td>
+        </tr>
+    </table>
+
+    <h1 style="color:green;">Styled Elements</h1>
+    <p style="color:purple;">This paragraph is styled with inline CSS to be purple.</p>
+    <p><mark>This paragraph has a background Color</mark></p>
+    <p style="boarder: 1px solid red;">this paragraph has a boarder</p>
+
+    <h2><strong>This paragraph has increased font size.</strong></h2>
+    <p style="color:aqua;">this text uses a custome color.</p>
+
+    <h2 style="color:red;">Block vs Inline Examples</h2>
+
+    <div style="background:#f2f2f2; padding:10px; margin-bottom:10px;">
+        This is a block element (div).
+    </div>
+
+    <p>
+        This sentence contains an inline example:  
+        <span style="color:red; font-weight:bold;">This is inline text.</span>
+    </p>
+
+</body>
+</html>
